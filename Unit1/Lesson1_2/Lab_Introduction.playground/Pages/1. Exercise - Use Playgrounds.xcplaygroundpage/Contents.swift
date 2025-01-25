@@ -10,13 +10,17 @@ print("How to use playgrounds to make writing Swift fun and simple")
 /*:
  Now print your own phrases to the console. Pick one of your favorite songs. Use your knowledge of the `print` function to display the song title and artist.
  */
-
+print("Lovely by Billie Eilish.")
 
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
  */
-
-
+print("Oh I hope some day I'll make it out of fear")
+print("Even if it takes all night or a hundred years")
+print("Need a place to hide but I can't find one near")
+print("Wanna feel alive outside I can't foght my fear")
+print("Isn't this lovely all alone")
+print("Heart made of glass my mind of stone...")
 
 /*:
 
